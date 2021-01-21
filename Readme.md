@@ -2,7 +2,7 @@
 
 **Introduction** 
 
-Brickz is a Open Source Platform Independent Bluetooth Infrared Transmitter / Blaster that supports GNU Linux, MS Windows MAC OS X and Android. Brickz allows you to transmit Pronto HEX Infrared codes via its built-in infrared LEDs or via a IR extender cable that connect to brickz via a 3.5mm Mono Audio jack  [Brickz Product Website] The unit is capable of connecting to the host PC via USB as well. It shows up aas a bluetooth serial port, when that interface option is used, or as a USB Serial Device if the USB Interface connection is used.(https://irdroid.eu/product/brickz/)
+Brickz is a Open Source Platform Independent Bluetooth Infrared Transmitter / Blaster that supports GNU Linux, MS Windows MAC OS X and Android. Brickz allows you to transmit Pronto HEX Infrared codes via its built-in infrared LEDs or via a IR extender cable that connect to brickz via a 3.5mm Mono Audio jack. The unit is capable of connecting to the host PC via USB as well as Bluetooth. It shows up as a bluetooth serial port, when that interface option is used, or as a USB Serial Device if the USB Interface connection is used.(https://irdroid.eu/product/brickz/)
 ![Brickz](https://raw.githubusercontent.com/Irdroid/Brickz/main/Documents/Photos/Brickz_with_ir_extender_scaled.png)
 
 **Features:**
