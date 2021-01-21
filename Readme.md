@@ -12,6 +12,11 @@ Brickz is a Open Source Platform Independent Bluetooth Infrared Transmitter / Bl
 - Optional infrared transmitter extender
 - Infrared operates at 940nm wavelength
 
+**Example Application:**
+- Digital signage infrared remote control & automation
+- Home Automation & remote control
+- Media remote control & automation systems
+
 **How It works?**
 
 Brickz listens for PRONTO HEX infrared codes via USB<>Serial or Bluetooht, simply connect to brickz via Bluetooth or USB open a terminal and type in the PRONTO code and hit enter, the command will be blasted through Brickz.If you are using Brickz with Android you can check out the example open source application that comes with brickz for sending pronto HEX codes. For detailed examples and usage, please refer to Brickz User's Manual, available in this repo.
@@ -19,4 +24,8 @@ Brickz listens for PRONTO HEX infrared codes via USB<>Serial or Bluetooht, simpl
 **Product website and Documentation**
 
 - [Brickz official product Website](https://irdroid.eu/product/brickz)
-- Documentation, Schematics and software about Brickz can be found in this repository
+- Documentation, Schematics, Production files and Software for Brickz can be found in this repository.
+
+**You want to help with the development?**
+
+- Write us an email to info@irdroid.com
