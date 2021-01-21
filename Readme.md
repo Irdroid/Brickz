@@ -21,7 +21,7 @@ Brickz is a Open Source Platform Independent Bluetooth Infrared Transmitter / Bl
 
 Brickz listens for PRONTO HEX infrared codes via USB<>Serial or Bluetooht, simply connect to brickz via Bluetooth or USB open a terminal and type in the PRONTO code and hit enter, the command will be blasted through Brickz.If you are using Brickz with Android you can check out the example open source application that comes with brickz for sending pronto HEX codes. For detailed examples and usage, please refer to Brickz User's Manual, available in this repo.
 
-On MAC OS X and GNU Linux once you pair with Brickz you can send PRONTO HEX codes directly from the console or via a bash script. This gives you the ability to make automation using script or controlling infrared devices directly from the console, from a script or scheduling infrared commands via cron. On MS Windows you can use any terminal application such as realterm or putty to send infrared commands with Brickz.
+On MAC OS X and GNU Linux once you pair with Brickz you can send PRONTO HEX codes directly from the console or via a bash script. This gives you the ability to make automation using script or controlling infrared devices directly from the console, from a script or scheduling infrared commands via cron. On MS Windows you can use any terminal application such as realterm or putty to send infrared commands with Brickz, or use the SerialSend.exe command line utility to send Infrared Codes to Brickz.
 
 **Product website and Documentation**
 
