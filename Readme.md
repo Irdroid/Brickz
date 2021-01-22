@@ -28,6 +28,11 @@ On MAC OS X and GNU Linux once you pair with Brickz you can send PRONTO HEX code
 - [Brickz official product Website](https://irdroid.eu/product/brickz)
 - Documentation, Schematics, Production files and Software for Brickz can be found in this repository.
 
+**Purchase sample unit**
+
+- [Brickz official product Website](https://irdroid.eu/product/brickz)
+- [Tindie](https://www.tindie.com/products/irdroid/brickz-bluetooth-infrared-transmitter/)
+
 **You want to help with the development?**
 
 - Write us an email to info@irdroid.com
